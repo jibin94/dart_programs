@@ -45,3 +45,25 @@ E
 sum_of_nutral_no.dart,8/7/87f2698b5365b029ff15f6f3865477a88ac8a6e6
 O
 words_containing_charactor.dart,8/f/8f90590463da46ac66e7bcfe4368447b174e04c6
+O
+control_statements/if_else.dart,3/7/37adc40a77cf07cee1301642d77dae40392082c3
+S
+#control_statements/switch_case.dart,0/e/0e15befa544db4c91a84f12e45e2edfacffb0ae8
+P
+ control_statements/for_loop.dart,8/3/832a96d39c4f55731fabe42ce848c8aadd595511
+S
+#control_statements/for_in_loop.dart,a/b/abfca84f7048d7eb5755066dd525a9cf6ad4d852
+R
+"control_statements/while_loop.dart,9/1/91dc287580d91b27d6603f7fc0e936b6cdab8bea
+P
+ control_statements/do_while.dart,d/f/df951455e1b288c785afb8ef6ff1a5f336626dc9
+M
+control_statements/break.dart,f/a/fac4c9145cf460e39e9c2ef333bc10284bd13721
+P
+ control_statements/continue.dart,c/5/c52da92fc1fa1f0f069b94ab73640e21587414e4
+S
+#control_statements/nested_loop.dart,9/9/9919af3b6e102f346dbc70ad6e58946210f1449f
+P
+ control_statements/for_each.dart,0/9/092319d67a1329d9bc620f7f2b5589b5272a27f5
+U
+%control_statements/map_with_list.dart,8/3/838d9dab506120fad0bbc948026bd6cbb3b478df
